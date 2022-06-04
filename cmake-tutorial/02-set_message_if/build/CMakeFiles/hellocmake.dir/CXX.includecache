@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/calc.hpp
+
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/02-set_message_if/src/calc.cpp
+
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/02-set_message_if/src/main.cpp
+iostream
+-
+calc.hpp
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/02-set_message_if/src/calc.hpp
+

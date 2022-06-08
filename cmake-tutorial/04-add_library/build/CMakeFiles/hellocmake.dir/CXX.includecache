@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/Wifi.hpp
+
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/src/calc.cpp
+
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/src/main.cpp
+iostream
+-
+calc.hpp
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/src/calc.hpp
+Wifi.hpp
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/src/Wifi.hpp
+

@@ -1,0 +1,6 @@
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/build/CMakeFiles/rebuild_cache.dir
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/build/CMakeFiles/hellocmake.dir
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/build/lib/CMakeFiles/rebuild_cache.dir
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/build/lib/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/04-add_library/build/lib/CMakeFiles/wifi_lib.dir

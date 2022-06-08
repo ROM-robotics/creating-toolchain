@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++     CMakeFiles/hellocmake.dir/src/main.cpp.o CMakeFiles/hellocmake.dir/src/calc.cpp.o  -o hellocmake  lib/libwifi_lib.a 

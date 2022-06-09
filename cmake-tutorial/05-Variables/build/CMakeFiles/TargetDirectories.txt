@@ -1,0 +1,2 @@
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/05-Variables/build/CMakeFiles/rebuild_cache.dir
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/05-Variables/build/CMakeFiles/edit_cache.dir

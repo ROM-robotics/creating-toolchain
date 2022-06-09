@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/07-if-foreach/src/main.cpp
+iostream
+-
+defaultconfig.h
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/07-if-foreach/src/defaultconfig.h
+
+defaultconfig.h
+

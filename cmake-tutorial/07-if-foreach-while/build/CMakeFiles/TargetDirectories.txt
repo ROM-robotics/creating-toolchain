@@ -1,0 +1,3 @@
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/07-if-foreach/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/07-if-foreach/build/CMakeFiles/rebuild_cache.dir
+/home/mr_robot/Desktop/creating-toolchain/cmake-tutorial/07-if-foreach/build/CMakeFiles/hellobot.dir
